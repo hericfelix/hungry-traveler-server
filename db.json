@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "kenzo@faminto.com",
+      "password": "$2a$10$ZgJb4F9J/uOozfORAvMxl.rv36kZU1uEObBX9gyWfFVAORXP4VfpC",
+      "name": "Kenzo",
+      "id": 1
+    }
+  ]
+}
