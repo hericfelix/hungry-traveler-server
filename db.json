@@ -6,5 +6,8 @@
       "name": "Kenzo",
       "id": 1
     }
-  ]
+  ],
+  "restaurants": [],
+  "favorites": [],
+  "score": []
 }
