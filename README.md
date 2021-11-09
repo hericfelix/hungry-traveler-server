@@ -7,12 +7,12 @@ Este é o backend da aplicação HungryTraveller - Um compilado gastronômico. O
 </p>
 
 <p align="center">
-  <a href="#endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#endpoints">Endpoints</a>
 </p>
 
 ## **Endpoints**
 
-A API tem um total de 4 endpoints, sendo em volta principalmente do usuário - que poderá cadastrar seu perfil, listar restaurantes, favoritos. <br/>
+A API tem um total de 11 endpoints, sendo em volta principalmente do usuário - que poderá cadastrar seu perfil, listar restaurantes, favoritos. <br/>
 
 O url base da API é https://hungry-traveler-json-server.herokuapp.com
 
