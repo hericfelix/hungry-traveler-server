@@ -18,50 +18,44 @@
       "address": "Av. Nossa Sra do Loreto, 1100 – Vila Medeiros",
       "city": "São Paulo",
       "image": "https://traveltipsbrasil.com/wp-content/uploads/2019/02/Mocoto%CC%81-imagem-destacada-2.jpg",
-      "menu": {
-        "entry": [
-          {
-            "name": "Porquinha",
-            "description": "Salada de alface romana, molho da Carol, filé de porco, croutons, queijo Tulha",
-            "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos19.jpg",
-            "price": 39.9
-          },
-          {
-            "name": "Dadinhos de tapioca",
-            "description": "Os originais desde 2005",
-            "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos5.jpg",
-            "price": 19.9
-          }
-        ],
-        "main": [
-          {
-            "name": "Caldo de Mocotó",
-            "description": "Receita exclusiva preparada do mesmo modo há mais de 40 anos",
-            "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos26.jpg",
-            "price": 21.9
-          },
-          {
-            "name": "Carne-Seca desfiada com cebola roxa",
-            "description": "Puxada na manteiga de garrafa, com pimenta de bico, mandioca cozida, batata doce e jerimum assado",
-            "img": "https://mocoto.com.br/wp-content/uploads/2018/06/processos11.jpg",
-            "price": 69.9
-          }
-        ],
-        "desert": [
-          {
-            "name": "Sorvete de rapadura",
-            "description": "Sorvete artesanal cremoso com melado de cana e pedaços de rapadura, servido com calda de catuaba",
-            "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos26.jpg",
-            "price": 18.9
-          },
-          {
-            "name": "Crème Brûlée de doce de leite e Umburana",
-            "description": "O famoso doce francês com um toque autoral, inspirado pelo amigo e chef Julien Mercier",
-            "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos17.jpg",
-            "price": 19.9
-          }
-        ]
-      },
+      "menu": [
+        {
+          "name": "Porquinha",
+          "description": "Salada de alface romana, molho da Carol, filé de porco, croutons, queijo Tulha",
+          "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos19.jpg",
+          "price": 39.9
+        },
+        {
+          "name": "Dadinhos de tapioca",
+          "description": "Os originais desde 2005",
+          "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos5.jpg",
+          "price": 19.9
+        },
+        {
+          "name": "Caldo de Mocotó",
+          "description": "Receita exclusiva preparada do mesmo modo há mais de 40 anos",
+          "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos26.jpg",
+          "price": 21.9
+        },
+        {
+          "name": "Carne-Seca desfiada com cebola roxa",
+          "description": "Puxada na manteiga de garrafa, com pimenta de bico, mandioca cozida, batata doce e jerimum assado",
+          "img": "https://mocoto.com.br/wp-content/uploads/2018/06/processos11.jpg",
+          "price": 69.9
+        },
+        {
+          "name": "Sorvete de rapadura",
+          "description": "Sorvete artesanal cremoso com melado de cana e pedaços de rapadura, servido com calda de catuaba",
+          "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos26.jpg",
+          "price": 18.9
+        },
+        {
+          "name": "Crème Brûlée de doce de leite e Umburana",
+          "description": "O famoso doce francês com um toque autoral, inspirado pelo amigo e chef Julien Mercier",
+          "img": "https://mocoto.com.br/wp-content/uploads/2018/06/pratos17.jpg",
+          "price": 19.9
+        }
+      ],
       "business hours": "seg a sáb de 12h às 23h / dom de 11:30h às 17h",
       "id": 1
     },
