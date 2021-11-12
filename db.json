@@ -12,8 +12,8 @@
       "name": "Mocotó",
       "type": "Comida Brasileira",
       "location": {
-        "lat": -23.486524564959485,
-        "lng": -46.58162408964771
+        "lat": -23.486654944808183,
+        "lng": -46.58165292393456
       },
       "address": "Av. Nossa Sra do Loreto, 1100 – Vila Medeiros",
       "city": "São Paulo",
@@ -56,15 +56,18 @@
           "price": 19.9
         }
       ],
-      "business hours": "seg a sáb de 12h às 23h / dom de 11:30h às 17h",
+      "business hours": {
+        "open": 12,
+        "close": 23
+      },
       "id": 1
     },
     {
       "name": "A Casa do Porco",
       "type": "Comida Brasileira",
       "location": {
-        "lat": -23.546016454103093,
-        "lng": -46.64328393197402
+        "lat": -23.546304758292305,
+        "lng": -46.64327387423214
       },
       "address": "Av. São Luiz 140, 4º andar – República",
       "city": "São Paulo",
@@ -108,15 +111,18 @@
           "price": 19.9
         }
       ],
-      "business hours": "seg a sáb de 12h às 23h / dom de 12h às 17h",
+      "business hours": {
+        "open": 12,
+        "close": 23
+      },
       "id": 2
     },
     {
       "name": "DOM",
       "type": "Comida Brasileira",
       "location": {
-        "lat": -23.566184708204705,
-        "lng": -46.667593660809395
+        "lat": -23.5662990288611,
+        "lng": -46.66744882206885
       },
       "address": "Rua Barão de Capanema, 549 – Jardins",
       "city": "São Paulo",
@@ -129,15 +135,18 @@
           "price": 640
         }
       ],
-      "business hours": "seg a sex de 12h às 15h - 19h às 21h / sáb de 19h às 21h",
+      "business hours": {
+        "open": 12,
+        "close": 21
+      },
       "id": 3
     },
     {
       "name": "A Figueira Rubaiyat",
       "type": "Steakhouse",
       "location": {
-        "lat": -23.56505003645893,
-        "lng": -46.66975086080953
+        "lat": -23.5653517966038,
+        "lng": -46.669690237366744
       },
       "address": "Rua Haddock Lobo, 1738 – Jardim Paulista",
       "city": "São Paulo",
@@ -169,15 +178,18 @@
           "price": 96
         }
       ],
-      "business hours": "seg a sex de 12h às 23h / sáb de 12h às 00h / dom de 12h às 18h",
+      "business hours": {
+        "open": 12,
+        "close": 23
+      },
       "id": 4
     },
     {
       "name": "Dinner in The Sky",
       "type": "Comida Brasileira e Mediterrânea",
       "location": {
-        "lat": -23.579300460270808,
-        "lng": -46.66066648964506
+        "lat": -23.579606561685274,
+        "lng": -46.66063517598004
       },
       "address": "Praça Armando de Sales Oliveira – Vila Mariana",
       "city": "São Paulo",
@@ -209,8 +221,8 @@
       "name": "Bark & Crust",
       "type": "Steakhouse e Bar",
       "location": {
-        "lat": -23.56057926689501,
-        "lng": -46.67826170891784
+        "lat": -23.56070309960032,
+        "lng": -46.67833072454459
       },
       "address": "Rua Artur de Azevedo, 657 – Cerqueira César",
       "city": "São Paulo",
@@ -253,7 +265,10 @@
           "price": 17.7
         }
       ],
-      "business hours": "seg a sex de 12h às 15h - 18h às 21:30h / sáb de 12h às 21:30h / dom de 12h às 17h",
+      "business hours": {
+        "open": 12,
+        "close": 22
+      },
       "id": 6
     },
 
@@ -261,10 +276,10 @@
       "name": "Purana",
       "type": "Plant Based",
       "location": {
-        "lat": -23.561095267399566,
-        "lng": -46.6820501613661
+        "lat": -23.561747395413516,
+        "lng": -46.681951593872625
       },
-      "address": "R. Cônego Eugênio Leite, 840 - Pinheiros",
+      "address": "Rua Cônego Eugênio Leite, 840 - Pinheiros",
       "city": "São Paulo",
       "image": "https://onthelist.com.br/uploads/editor/73d0ba93e5ad17a1eee1872e030d975c.jpg",
       "menu": [
@@ -293,15 +308,18 @@
           "price": 54
         }
       ],
-      "business hours": "seg a sáb de 12h às 23h / dom de 11:30h às 17h",
+      "business hours": {
+        "open": 12,
+        "close": 23
+      },
       "id": 7
     },
     {
       "name": "Tandoor",
       "type": "Culinária Indiana",
       "location": {
-        "lat": -23.574666283196258,
-        "lng": -46.647329047317335
+        "lat": -23.574912118061672,
+        "lng": -46.64729149693262
       },
       "address": "Rua Mário Amaral, 559 – Paraíso",
       "city": "São Paulo",
@@ -344,7 +362,10 @@
           "price": 29
         }
       ],
-      "business hours": "seg a sex de 12h às 15h - 19h às 23h / sáb e dom de 12h às 16h - 19h às 00h",
+      "business hours": {
+        "open": 12,
+        "close": 23
+      },
       "id": 8
     }
   ],
