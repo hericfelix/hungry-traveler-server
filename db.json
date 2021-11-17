@@ -17,7 +17,8 @@
       },
       "address": "Av. Nossa Sra do Loreto, 1100 – Vila Medeiros",
       "city": "São Paulo",
-      "image": "https://traveltipsbrasil.com/wp-content/uploads/2019/02/Mocoto%CC%81-imagem-destacada-2.jpg",
+      "description": "O Mocotó é um restaurante de comida sertaneja localizado na Vila Medeiros, zona norte de São Paulo. Foi fundado como uma casa do norte, em 1973, por José de Almeida e hoje é dirigido por seu filho, Rodrigo Oliveira. Aqui acontece o encontro da cozinha sertaneja tradicional com a inovação proposta por Rodrigo.",
+      "img": "https://traveltipsbrasil.com/wp-content/uploads/2019/02/Mocoto%CC%81-imagem-destacada-2.jpg",
       "menu": [
         {
           "name": "Porquinha",
@@ -56,7 +57,7 @@
           "price": 19.9
         }
       ],
-      "business hours": {
+      "businessHours": {
         "open": 12,
         "close": 23
       },
@@ -71,7 +72,8 @@
       },
       "address": "Av. São Luiz 140, 4º andar – República",
       "city": "São Paulo",
-      "image": "https://miro.medium.com/max/2000/1*rxPAgMKwIa8DpcTVKR9Eyw.jpeg",
+      "description": "A Casa do Porco é um restaurante, onde a carne de porco é a protagonista. Representada de diversas formas e texturas, nenhuma parte é desperdiçada, é o animal do focinho ao rabo.",
+      "img": "https://miro.medium.com/max/2000/1*rxPAgMKwIa8DpcTVKR9Eyw.jpeg",
       "menu": [
         {
           "name": "Torresmo de Pancetta com Goiabada",
@@ -111,7 +113,7 @@
           "price": 19.9
         }
       ],
-      "business hours": {
+      "businessHours": {
         "open": 12,
         "close": 23
       },
@@ -126,7 +128,8 @@
       },
       "address": "Rua Barão de Capanema, 549 – Jardins",
       "city": "São Paulo",
-      "image": "https://exame.com/wp-content/uploads/2016/09/size_960_16_9_d-o-m5.jpg",
+      "description": "Um restaurante premiado e aclamado pela crítica, mas que continua instigando os apaixonados por alta gastronomia com suas revelações sobre a cozinha e os ingredientes do Brasil.",
+      "img": "https://exame.com/wp-content/uploads/2016/09/size_960_16_9_d-o-m5.jpg",
       "menu": [
         {
           "name": "Menu degustação",
@@ -135,7 +138,7 @@
           "price": 640
         }
       ],
-      "business hours": {
+      "businessHours": {
         "open": 12,
         "close": 21
       },
@@ -150,7 +153,8 @@
       },
       "address": "Rua Haddock Lobo, 1738 – Jardim Paulista",
       "city": "São Paulo",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/16/45/de/a-figueira-rubaiyat.jpg",
+      "description": "Almoçar ou jantar sob um patrimônio da cidade, a centenária figueira que dá nome ao restaurante, é uma experiência única. A casa, que se tornou um ícone, conta com amplos espaços para refeições de negócios, comemoração de datas especiais e até mesmo eventos corporativos.",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/0c/16/45/de/a-figueira-rubaiyat.jpg",
       "menu": [
         {
           "name": "Torresmo de Rolo",
@@ -178,7 +182,7 @@
           "price": 96
         }
       ],
-      "business hours": {
+      "businessHours": {
         "open": 12,
         "close": 23
       },
@@ -193,7 +197,8 @@
       },
       "address": "Praça Armando de Sales Oliveira – Vila Mariana",
       "city": "São Paulo",
-      "image": "https://embarquenaviagem.com/wp-content/uploads/2020/03/Dinner-in-The-Sky-Brasil.png",
+      "description": "Uma plataforma a 50 metros de altura une 22 participantes que buscam sair da rotina com o melhor da gastronomia numa experiência perfeita.",
+      "img": "https://embarquenaviagem.com/wp-content/uploads/2020/03/Dinner-in-The-Sky-Brasil.png",
       "menu": [
         {
           "name": "Brunch 10h",
@@ -214,7 +219,7 @@
           "price": 600
         }
       ],
-      "business hours": "seg a dom de 10h às 22h",
+      "businessHours": "seg a dom de 10h às 22h",
       "id": 5
     },
     {
@@ -226,7 +231,8 @@
       },
       "address": "Rua Artur de Azevedo, 657 – Cerqueira César",
       "city": "São Paulo",
-      "image": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.6435-9/95566270_253544636018301_1254832961052737536_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=AQpoV8ZDIbgAX9pwpGA&tn=08wgk_Ayt_xPDDyk&_nc_ht=scontent-cdt1-1.xx&oh=a42bdad873f62990a51002b265b3e384&oe=61B0DBA3",
+      "description": "A Bark & Crust apresenta uma culinária que envolve a brasa, com cortes de carne dry aged (longo processo de maturação), carnes defumadas e até legumes. O Chef Daniel Lee seleciona cuidadosamente seus fornecedores para garantir que os animais sejam criados livres, trazendo o conceito chamado farm-to-table que significa “da fazenda à mesa”.",
+      "img": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.6435-9/95566270_253544636018301_1254832961052737536_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=AQpoV8ZDIbgAX9pwpGA&tn=08wgk_Ayt_xPDDyk&_nc_ht=scontent-cdt1-1.xx&oh=a42bdad873f62990a51002b265b3e384&oe=61B0DBA3",
       "menu": [
         {
           "name": "Croqueta defumada",
@@ -265,7 +271,7 @@
           "price": 17.7
         }
       ],
-      "business hours": {
+      "businessHours": {
         "open": 12,
         "close": 22
       },
@@ -281,7 +287,8 @@
       },
       "address": "Rua Cônego Eugênio Leite, 840 - Pinheiros",
       "city": "São Paulo",
-      "image": "https://onthelist.com.br/uploads/editor/73d0ba93e5ad17a1eee1872e030d975c.jpg",
+      "description": "Eleito o melhor restaurante vegano de São Paulo pela Veja Comer & Beber, o Purana.co busca ser um espaço de cura através da alimentação. Aqui, o cardápio é assinado pela Chef e sócia Alana Rox, autora de The Veggie Vox e Diário de uma Vegana e apresentadora da GNT.",
+      "img": "https://onthelist.com.br/uploads/editor/73d0ba93e5ad17a1eee1872e030d975c.jpg",
       "menu": [
         {
           "name": "Hommus de Grão de Bico com Cenourinha Baby e Crackers",
@@ -308,7 +315,7 @@
           "price": 54
         }
       ],
-      "business hours": {
+      "businessHours": {
         "open": 12,
         "close": 23
       },
@@ -323,7 +330,8 @@
       },
       "address": "Rua Mário Amaral, 559 – Paraíso",
       "city": "São Paulo",
-      "image": "https://content.skyscnr.com/m/25a2a0baee9c1972/original/Tandoor-restaurante-indiano-SP.jpg?resize=1800px:1800px&quality=100",
+      "description": "O Tandoor é um forno de barro que tem origem na fronteira noroeste da Índia. A comida do Tandoor se reflete nos molhos e temperos autênticos utilizados em todos os pratos.",
+      "img": "https://content.skyscnr.com/m/25a2a0baee9c1972/original/Tandoor-restaurante-indiano-SP.jpg?resize=1800px:1800px&quality=100",
       "menu": [
         {
           "name": "Vegetable Samosa",
@@ -362,7 +370,7 @@
           "price": 29
         }
       ],
-      "business hours": {
+      "businessHours": {
         "open": 12,
         "close": 23
       },
