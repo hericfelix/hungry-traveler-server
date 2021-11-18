@@ -25,7 +25,9 @@ O url base da API é https://hungry-traveler-json-server.herokuapp.com
 ```json
 {
   "email": "kenzo@faminto.com",
+  "emailConfirm": "kenzo@faminto.com",
   "password": "123456",
+  "passwordConfirm": "123456",
   "name": "Kenzo"
 }
 ```
